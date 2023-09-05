@@ -15,7 +15,7 @@
 */
 
 :root {
-    --bs-blue: orangered;
+    --bs-blue: #0dbceb;
     --bs-indigo: #6610f2;
     --bs-purple: #6f42c1;
     --bs-pink: #d63384;
@@ -27505,7 +27505,7 @@ button {
 .primary-btn a {
     padding: 13px 30px;
     display: inline-block;
-    background: orangered;
+    background: #0dbceb;
     font-size: 14px;
     color: #fff;
     font-family: "Inter", sans-serif;
@@ -27518,7 +27518,7 @@ button {
     transition: all .4s ease-in-out;
 }
 .primary-btn a:hover {
-    background: red;
+    background: #ef1023;
     color:white;
 }
 .primary-btn a::before {
@@ -28711,7 +28711,7 @@ button {
 .action-btns a.btn-link:hover,
 .navbar-dark.sticky-header.affix .main-menu li a.nav-link:hover,
 .navbar-dark.sticky-header.affix .action-btns a.btn-link:hover {
-    color: orangered;
+    color: #0dbceb;
 }
 
 .dropdown-grid-item a.dropdown-link {
